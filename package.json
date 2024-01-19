@@ -76,7 +76,7 @@
     "contentful-resolve-response": "^1.8.1",
     "contentful-sdk-core": "^8.1.0",
     "json-stringify-safe": "^5.0.1",
-    "type-fest": "^4.0.0"
+    "type-fest": "^4.9.0"
   },
   "devDependencies": {
     "@semantic-release/changelog": "^6.0.1",
